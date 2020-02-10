@@ -12,4 +12,6 @@
 
 4	The data standard is meant to be read together with the judgments data available through [LawNet Legal Research APIs](https://github.com/legaltechsal/LawNet-APIs) and the [SAL R&D Environment](https://github.com/legaltechsal/LawNetRD). These links provide guidelines for how the data can be used. 
 
+### Where do I find it?
  
+You can find the document right above or you can click [here](https://github.com/legaltechsal/Singapore-Judgments-Data-Standards/blob/master/Data%20Standards%20for%20SG%20Judgments%20v1.1.pdf)
